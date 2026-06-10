@@ -1,0 +1,126 @@
+{
+  "students": [
+    {
+      "_id": "21200184",
+      "name": "Hunni",
+      "semester_goals": {
+        "Math": ["Limits", "Derivatives", "Integrals", "Matrices"],
+        "Physics": ["Kinematics", "Newton's Laws", "Energy", "Waves"],
+        "Chemistry": ["Atomic Structure", "Bonding", "Reactions", "Acids and Bases"],
+        "Biology": ["Cell Biology", "Genetics", "Evolution", "Homeostasis"]
+      },
+      "weekly_target_minutes": 720,
+      "learning_preferences": {
+        "primary_style": "visual",
+        "secondary_style": "practice-based",
+        "study_window": "evenings"
+      }
+    }
+  ],
+  "study_sessions": [
+    {
+      "student_id": "21200184",
+      "subject": "Physics",
+      "topic": "Newton's Laws",
+      "duration_minutes": 45,
+      "timestamp": "2026-06-10T14:30:00Z"
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Math",
+      "topic": "Limits",
+      "duration_minutes": 35,
+      "timestamp": "2026-06-09T16:15:00Z"
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "duration_minutes": 40,
+      "timestamp": "2026-06-08T11:00:00Z"
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "duration_minutes": 30,
+      "timestamp": "2026-06-07T18:45:00Z"
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Math",
+      "topic": "Derivatives",
+      "duration_minutes": 50,
+      "timestamp": "2026-06-06T20:15:00Z"
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Physics",
+      "topic": "Kinematics",
+      "duration_minutes": 55,
+      "timestamp": "2026-06-05T15:00:00Z"
+    }
+  ],
+  "materials": [
+    {
+      "student_id": "21200184",
+      "subject": "Biology",
+      "title": "Mitochondria Notes",
+      "content": "The mitochondria is the powerhouse...",
+      "type": "note",
+      "tags": ["cell biology", "energy"]
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Math",
+      "title": "Derivative Rules Flashcards",
+      "content": "Power rule, product rule, quotient rule, chain rule.",
+      "type": "flashcard",
+      "tags": ["derivatives", "calculus"]
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Physics",
+      "title": "Newton's Laws Summary",
+      "content": "Force, mass, acceleration, and action-reaction pairs.",
+      "type": "summary",
+      "tags": ["mechanics", "forces"]
+    }
+  ],
+  "knowledge_trees": [
+    {
+      "student_id": "21200184",
+      "subject": "Math",
+      "tree": {
+        "Calculus": ["Limits", "Derivatives", "Integrals"],
+        "Linear Algebra": ["Matrices", "Vectors", "Eigenvalues"]
+      }
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Physics",
+      "tree": {
+        "Mechanics": ["Kinematics", "Newton's Laws", "Energy"],
+        "Waves": ["Frequency", "Wavelength", "Interference"]
+      }
+    },
+    {
+      "student_id": "21200184",
+      "subject": "Biology",
+      "tree": {
+        "Cell Biology": ["Cell Membrane", "Organelles", "Transport"],
+        "Genetics": ["DNA", "RNA", "Inheritance"]
+      }
+    }
+  ],
+  "student_notes": [
+    {
+      "student_id": "21200184",
+      "subject": "General",
+      "title": "Focus Reminder",
+      "content": "Use the dashboard weekly to avoid last-minute cramming.",
+      "type": "note",
+      "tags": ["planning", "habits"]
+    }
+  ]
+}
