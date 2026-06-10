@@ -4,7 +4,7 @@
 echo "Starting deployment for STEM Omni-Tutor..."
 
 # Ensure we are logged in and sets the project
-gcloud config set project project-9992272a-2b12-4f3d-95f
+gcloud config set project NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 # Enable necessary APIs
 gcloud services enable run.googleapis.com
