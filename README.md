@@ -48,3 +48,4 @@ Demo flow:
 3. Log a study session and refresh to show MongoDB writes.
 4. Search materials, open Desmos, and show the knowledge tree.
 5. Finish by showing the study recommendation output and progress calibration.
+https://stem-tutor-mcp-393899589678.us-central1.run.app/
