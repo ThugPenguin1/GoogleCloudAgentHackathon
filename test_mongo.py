@@ -4,7 +4,7 @@ from datetime import datetime
 from pymongo import MongoClient
 
 # Use the URI from environment or default to the one provided
-MONGO_URI = os.environ.get("MONGODB_URI", "mongodb+srv://ThugPenguin1:Hunni246886425@googlecloudrapidagentha.ffu84im.mongodb.net/StemTutorDB?appName=GoogleCloudRapidAgentHackathon")
+MONGO_URI = os.environ.get("")
 
 print(f"Connecting to MongoDB...")
 client = MongoClient(MONGO_URI)

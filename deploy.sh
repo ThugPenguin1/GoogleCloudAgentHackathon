@@ -16,6 +16,6 @@ gcloud run deploy stem-tutor-mcp \
     --source . \
     --region us-central1 \
     --allow-unauthenticated \
-    --set-env-vars="MONGODB_URI=mongodb+srv://ThugPenguin1:Hunni246886425@googlecloudrapidagentha.ffu84im.mongodb.net/StemTutorDB?appName=GoogleCloudRapidAgentHackathon"
+    --set-env-vars=""
 
 echo "Deployment complete! Your Agent Builder can now connect to the provided URL."
